@@ -1,3 +1,5 @@
+//Templet used to help establish the idea
+
 //varibles here
 var holder = [];
 var key = [];
